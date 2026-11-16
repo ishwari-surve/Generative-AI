@@ -30,10 +30,10 @@ Program 03:
 - Agent: Current time is: (current time in HH:MM:SS)
 
 Program 04:
-- User: my name is Rahul
-- Agent: Nice to meet you, rahul
+- User: my name is Ishwari
+- Agent: Nice to meet you, ishwari
 - User: what is my name
-- Agent: Your name is rahul
+- Agent: Your name is ishwari
 
 ## Key points
 - Tool: a function the agent can call (calculator, show_time, show_date).
