@@ -3,7 +3,7 @@
 # Author  : Ishwari Vijaykumar Surve
 # Target:
 # Build an agent that remembers the user's name during
-# the conversation and can show what is stored in memory 
+# the conversation and can show what is stored in memory
 # ============================================================
 
 print("=" * 60)
@@ -31,7 +31,7 @@ def agent(user_input):
         return str(memory)
 
     else:
-        return "I can remember your name. Try: My name is Rahul"
+        return "I can remember your name. Try: My name is Ishwari"
 
 while True:
     query = input("User: ")
