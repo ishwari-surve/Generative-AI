@@ -3,7 +3,7 @@
 # Author  : Ishwari Vijaykumar Surve
 # Target:
 # Build an agent that remembers the user's name during
-# the conversation and can show what is stored in memory
+# the conversation and can show what is stored in memory 
 # ============================================================
 
 print("=" * 60)
