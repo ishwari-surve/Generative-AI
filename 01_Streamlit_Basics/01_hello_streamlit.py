@@ -10,4 +10,4 @@ import streamlit as st
 
 st.title("Streamlit Basics : Hello Streamlit")
 
-st.write("Jay Ganesh...")
+st.write("Hello World...")
